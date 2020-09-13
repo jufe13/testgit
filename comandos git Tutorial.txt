@@ -1,0 +1,5 @@
+git add --cargar nuevo archivo al staying area
+git . --carga todos los archivos nuevos al area previa para subir
+git diff -- valida los cambios sobre el area de trabajo 
+git commit -m --crea un changSet
+git push --sube los cambios de staying area a github
